@@ -1,1 +1,3 @@
-# BINARY_SEARCH_TREE
+Problem Statement:
+Understand the implementation of the Binary Search Tree like find minimum
+max,insert, delete,find,inorder,preorder etc.
